@@ -1,0 +1,25 @@
+{
+    "name": "com.[company-name].[package-name]",
+    "version": "V1",
+    "displayName": "Group 6 Spooky Hospital",
+    "description": "Package for our spooky hopsital prototype",
+    "unity": "2020.3.18F1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+      "com.[company-name].some-package": "1.0.0",
+      "com.[company-name].other-package": "2.0.0"
+   },
+   "keywords": [
+      "UWS",
+      "Unity",
+      "VR"
+    ],
+    "author": {
+      "name": "UWS IXD Group 6 2022",
+      "email": "B00358599@STUDENTMAIL.UWS.AC.UK",
+      "url": "https://www.unity3d.com"
+    }
+  }
